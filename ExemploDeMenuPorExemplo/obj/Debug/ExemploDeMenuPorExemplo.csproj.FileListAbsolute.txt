@@ -1,0 +1,14 @@
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\bin\Debug\ExemploDeMenuPorExemplo.exe.config
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\bin\Debug\ExemploDeMenuPorExemplo.exe
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\bin\Debug\ExemploDeMenuPorExemplo.pdb
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\obj\Debug\ExemploDeMenuPorExemplo.csproj.AssemblyReference.cache
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\obj\Debug\ExemploDeMenuPorExemplo.TelaAtualizar.resources
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\obj\Debug\ExemploDeMenuPorExemplo.TelaCadastrar.resources
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\obj\Debug\ExemploDeMenuPorExemplo.Form1.resources
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\obj\Debug\ExemploDeMenuPorExemplo.Properties.Resources.resources
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\obj\Debug\ExemploDeMenuPorExemplo.TelaConsultar.resources
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\obj\Debug\ExemploDeMenuPorExemplo.TelaExcluir.resources
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\obj\Debug\ExemploDeMenuPorExemplo.csproj.GenerateResource.cache
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\obj\Debug\ExemploDeMenuPorExemplo.csproj.CoreCompileInputs.cache
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\obj\Debug\ExemploDeMenuPorExemplo.exe
+C:\Users\thiago.lleitao\source\repos\ExemploDeMenuPorExemplo\ExemploDeMenuPorExemplo\obj\Debug\ExemploDeMenuPorExemplo.pdb
